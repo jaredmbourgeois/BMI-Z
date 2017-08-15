@@ -27,9 +27,10 @@ SOURCES ======================
 2000 CDC GROWTH CHARTS FOR THE UNITED STATES: METHODS AND DEVELOPMENT
 https://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf
 
-WHO - bmianthro.txt from "Download R" file
+WHO - MALES & FEMALES 0-2YRS
 http://www.who.int/childgrowth/software/en/
+bmianthro.txt from "Download R" file
 
-CDC - MALES & FEMALES 0-3YRS & 2-20YRS
+CDC - MALES & FEMALES 2-20YRS
 https://www.cdc.gov/growthcharts/percentile_data_files.htm
 ==============================
