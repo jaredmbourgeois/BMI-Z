@@ -11,8 +11,7 @@ INSTRUCTIONS
 		ii. double click BMI-Z_win.exe
 	MAC
 		i. open Terminal
-		ii. change to the BMI-Z file by typing "cd " and dragging the file into the terminal window
-		iii. type "./BMI-Z_mac"
+		ii. drag the 'BMI-Z_mac' to the terminal window & press enter
 
 4. The program will run and create the BMI_OUTPUT.csv file.
 	- if BMI_OUTPUT.csv already exists, it will be overwritten
